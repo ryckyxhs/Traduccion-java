@@ -1,8 +1,11 @@
+/**
+ *
+ * @author Ricardo Ordoñez
+ */
 
-
-import java.util.Scanner;
-public class Ejercicio1 {
-    public static void main(String[]args){
+        import java.util.Scanner;
+         public class Ejercicio1 {
+        public static void main(String[]args){
         Scanner sc = new Scanner (System.in);
         String nombre;
         int edad;
