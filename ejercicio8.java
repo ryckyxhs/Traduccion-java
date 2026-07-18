@@ -2,7 +2,7 @@ package clase1;
 
 /**
  *
- * @author Ricardo Ordoñez
+ * @author Ricardo Abraham Ordoñez Narvaez
  */
 import java.util.Scanner;
 public class ejercicio8 {
