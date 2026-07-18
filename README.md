@@ -1,7 +1,4 @@
-/**
- *
- * @author Ricardo Ordoñez
- */
+
 
 import java.util.Scanner;
 public class Ejercicio1 {
